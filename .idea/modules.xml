@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gauge-java-api-tcs-mid/gauge-java-api.iml" filepath="$PROJECT_DIR$/gauge-java-api-tcs-mid/gauge-java-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sky.tcs.api.guage.iml" filepath="$PROJECT_DIR$/.idea/sky.tcs.api.guage.iml" />
+    </modules>
+  </component>
+</project>
